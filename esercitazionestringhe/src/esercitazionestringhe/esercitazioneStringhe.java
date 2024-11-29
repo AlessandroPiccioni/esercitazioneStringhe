@@ -31,7 +31,7 @@ public class esercitazioneStringhe {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Esercitazione 1: ");
+		System.out.println("Esercitazione uno:  ");
 		
 		System.out.println("Scrivi una stringa ...");
 		stringa = scanner.nextLine();
